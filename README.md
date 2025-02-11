@@ -5,15 +5,6 @@ This repository contains an interactive **Power BI Dashboard** designed to analy
 
 ---
 
-## 📷 Dashboard Previews  
-### 🔹 Sales Performance Overview  
-![Sales Performance](Screenshot 2025-02-11 161506.png)  
-
-### 🔹 Sales Forecasting  
-![Sales Forecast]()  
-
----
-
 ## 🚀 Key Features  
 ✔ **Total Sales & Profit Analysis** – Overview of revenue, profit percentage, and key KPIs.  
 ✔ **Sales Breakdown** – Sales and profit insights by product, ship mode, and state.  
