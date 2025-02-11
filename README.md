@@ -7,7 +7,7 @@ This repository contains an interactive **Power BI Dashboard** designed to analy
 
 ## 📷 Dashboard Previews  
 ### 🔹 Sales Performance Overview  
-![Sales Performance]()  
+![Sales Performance](Screenshot 2025-02-11 161506.png)  
 
 ### 🔹 Sales Forecasting  
 ![Sales Forecast]()  
